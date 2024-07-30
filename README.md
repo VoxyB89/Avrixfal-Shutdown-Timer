@@ -1,12 +1,12 @@
-# Avrixfal-Shutdown-Timer
+# Voxy's Shutdown Timer
 
-# Building Yourself!
+## Building Yourself!
 In Order To Build It Yourself You Need To
    1. Open a text editor like Notepad.
    2. Download the .txt file into your desired location (Like Desktop).
    3. Rename the file to be with a '.bat' extension instead of '.txt'.
 
-# Stuff You Expect To See In Script
+## Stuff You Expect To See In Script
 Explanation:
 
    - Input Prompt: The script asks for the number of seconds until the shutdown.
@@ -14,7 +14,7 @@ Explanation:
    - Countdown Display: It displays the remaining time in a loop, updating every second.
    - Shutdown Command: When the timer reaches zero, the script executes the shutdown command.
 
-# How To Use!
+## How To Use!
 Running the Script:
 
    1. Double-click the .bat file to run it from releases.
