@@ -1,6 +1,6 @@
 # Avrixfal-Shutdown-Timer
 
-# Building YourSelf!
+# Building Yourself!
 In Order To Build It Yourself You Need To
     Open a text editor like Notepad.
     Download the .txt file into your desired location (Like Desktop).
