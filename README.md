@@ -34,16 +34,16 @@ This script provides a simple and effective way to shut down your PC after a spe
 
    1. Windows 10 - |Supported| Tested Works, Perfectly Fine :+1:
    2. Windows 11 - |Supported| Non-Tested, Should Work Tho :+1:
-   3. Windows 7/8  - |Supported| Non-Tested, Should Work aswell
-   4. Windows Vista - |Should Be Supported I Think| Non-Tested, Should Work Ig....
-   5. Windows XP  - |Should Be Supported I Think| Non-Tested, Should Work probably....
-   6. Linux/Ubuntu - |Not Supported| Will Rewrite For Linux At A Later Time
-   7. MacOS - |Not Supported| Will Rewrite For MacOS At A Later Time when i learn how to do it
+   3. Windows 7/8  - |Supported| Non-Tested, Should Work aswell :+1:
+   4. Windows Vista - |Should Be Supported I Think| Non-Tested, Should Work Ig.... :+1:
+   5. Windows XP  - |Should Be Supported I Think| Non-Tested, Should Work probably.... :cold_sweat:
+   6. Linux/Ubuntu - |Not Supported| Will Rewrite For Linux At A Later Time :thumbsdown:
+   7. MacOS - |Not Supported| Will Rewrite For MacOS At A Later Time when i learn how to do it :thumbsdown:
 
 ## Tasks For Future ME Yippe
 
 - [x] Fix A Little Error
-- [ ] Make A Linux/Ubuntu Version
-- [ ] Make A Version For MacOS :tada:
+- [ ] Make A Linux/Ubuntu Version :dizzy_face:
+- [ ] Make A Version For MacOS :flushed:
 
-IF anyone has any other version and wants to add it to the Supported versions and to the repo contact me at my email: noblex_adrian@gmx.com :+1:
+IF anyone has any other version :handshake: and wants to add it to the Supported versions and to the repo contact me at my email: noblex_adrian@gmx.com :+1:
