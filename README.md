@@ -1,10 +1,15 @@
 # Voxy's Shutdown Timer
+> [!CAUTION]
+> This Is Still An Early Version So Do Not Mess With Code Cuz You May Shutdown Your Pc By Accident When You Run It (level of failure: Begginer)
+
+> [!WARNING]
+> If You Find Any Bug Whatsoever Please And Quickly Report To My Email (at the bottom of my page and my profile) or contact on my discord (it will be made soon)
 
 ## Building Yourself!
 In Order To Build It Yourself You Need To
    1. Open a text editor like Notepad.
    2. Download the .txt file into your desired location (Like Desktop).
-   3. Rename the file to be with a '.bat' extension instead of '.txt'.
+   3. Rename the file to be with a '.bat' extension instead of '.txt'. :+1:
 
 ## Stuff You Expect To See In Script
 Explanation:
@@ -19,6 +24,26 @@ Running the Script:
 
    1. Double-click the .bat file to run it from releases.
    2. Enter the desired number of seconds when prompted.
-   3. The command prompt window will display the countdown. You can press Ctrl+C at any time to cancel the shutdown.
+   3. The command prompt window will display the countdown. You can press Ctrl+C at any time to cancel the shutdown. :+1:
 
 This script provides a simple and effective way to shut down your PC after a specified time, while keeping you informed of the remaining time.
+
+
+
+## Supported Versions:
+
+   1. Windows 10 - |Supported| Tested Works, Perfectly Fine :+1:
+   2. Windows 11 - |Supported| Non-Tested, Should Work Tho :+1:
+   3. Windows 7/8  - |Supported| Non-Tested, Should Work aswell
+   4. Windows Vista - |Should Be Supported I Think| Non-Tested, Should Work Ig....
+   5. Windows XP  - |Should Be Supported I Think| Non-Tested, Should Work probably....
+   6. Linux/Ubuntu - |Not Supported| Will Rewrite For Linux At A Later Time
+   7. MacOS - |Not Supported| Will Rewrite For MacOS At A Later Time when i learn how to do it
+
+## Tasks For Future ME Yippe
+
+- [x] Fix A Little Error
+- [ ] Make A Linux/Ubuntu Version
+- [ ] Make A Version For MacOS :tada:
+
+IF anyone has any other version and wants to add it to the Supported versions and to the repo contact me at my email: noblex_adrian@gmx.com :+1:
