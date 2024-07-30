@@ -22,9 +22,10 @@ Explanation:
 ## How To Use!
 Running the Script:
 
-   1. Double-click the .bat file to run it from releases.
-   2. Enter the desired number of seconds when prompted.
-   3. The command prompt window will display the countdown. You can press Ctrl+C at any time to cancel the shutdown. :+1:
+   1. Download the  .bat file from releases then place it into your desired location (Like Desktop).
+   2. Run The Bat File.
+   3. Enter the desired number of seconds when prompted.
+   4. The command prompt window will display the countdown. You can press Ctrl+C at any time to cancel the shutdown. :+1:
 
 This script provides a simple and effective way to shut down your PC after a specified time, while keeping you informed of the remaining time.
 
