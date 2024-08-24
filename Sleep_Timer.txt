@@ -1,0 +1,35 @@
+@echo off
+title Avrixfalls Sleep Timer
+set /p time_limit=Enter the number of seconds until sleep: 
+
+:: Calculate the hours, minutes, and seconds from the input time
+set /a hours=%time_limit% / 3600
+set /a remainder=%time_limit% %% 3600
+set /a minutes=%remainder% / 60
+set /a seconds=%remainder% %% 60
+
+:: Display the countdown timer
+echo.
+echo Your computer will sleep in %hours% hour(s), %minutes% minute(s), and %seconds% second(s).
+echo Press Ctrl+C to cancel.
+echo.
+
+:: Loop to display countdown
+:loop
+if %time_limit% leq 0 goto sleep
+timeout /t 1 >nul
+set /a time_limit=%time_limit%-1
+
+:: Recalculate the hours, minutes, and seconds
+set /a hours=%time_limit% / 3600
+set /a remainder=%time_limit% %% 3600
+set /a minutes=%remainder% / 60
+set /a seconds=%remainder% %% 60
+
+cls
+echo Your computer will sleep in %hours% hour(s), %minutes% minute(s), and %seconds% second(s).
+echo Press Ctrl+C to cancel.
+goto loop
+
+:sleep
+rundll32.exe powrprof.dll,SetSuspendState 0,1,0
