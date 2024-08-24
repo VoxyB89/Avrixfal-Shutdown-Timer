@@ -1,4 +1,4 @@
-# Voxy's Shutdown Timer
+# Voxy's Sleep Timer
 > [!CAUTION]
 > This Is Still An Early Version So Do Not Mess With Code Cuz You May Shutdown Your Pc By Accident When You Run It (level of failure: Begginer)
 
