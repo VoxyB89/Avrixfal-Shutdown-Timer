@@ -1,3 +1,5 @@
+<div align="center"> <img src="https://github.com/user-attachments/assets/7ad451bf-8728-4891-a141-8a9326e6cd6b"> </div>
+
 # Voxy's Sleep Timer
 > [!CAUTION]
 > This Is Still An Early Version So Do Not Mess With Code Cuz You May Shutdown Your Pc By Accident When You Run It (level of failure: Begginer)
