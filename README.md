@@ -1,3 +1,5 @@
+<div align="center"> <img src="https://repository-images.githubusercontent.com/835955324/f1d9c784-4a96-455d-8a7d-a14562ff3e0d"> </div>
+
 # Voxy's Shutdown Timer
 > [!CAUTION]
 > This Is Still An Early Version So Do Not Mess With Code Cuz You May Shutdown Your Pc By Accident When You Run It (level of failure: Begginer)
