@@ -1,4 +1,5 @@
-<div align="center"> <img src="https://repository-images.githubusercontent.com/835955324/f1d9c784-4a96-455d-8a7d-a14562ff3e0d"> </div>
+<div align="center"> <img src="https://github.com/user-attachments/assets/7ad451bf-8728-4891-a141-8a9326e6cd6b"> </div>
+
 
 # Voxy's Shutdown Timer
 > [!CAUTION]
